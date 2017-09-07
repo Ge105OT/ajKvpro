@@ -16,29 +16,29 @@
 # 为学习程序ui设计，学习pyqt，并能使用上程序，设计了密码管理器，保存管理个人账户密码。
 
 # login
-&nbsp;&nbsp;登陆界面，右下方新用户点击可以创建一个新的用户
+&nbsp;&nbsp;登陆界面，右下方新用户点击可以创建一个新的用户<br>
 ![login](https://github.com/Ge105OT/blob/master/exeimg/login.png?raw=true)
 
 # main
-&nbsp;&nbsp;主界面，登陆初始状态下
+&nbsp;&nbsp;主界面，登陆初始状态下<br>
 ![main](https://github.com/Ge105OT/ajKvpro/blob/master/exeimg/main.png?raw=true)
 
 # main1
-&nbsp;&nbsp;主界面，登陆后点击其中某一个表下
+&nbsp;&nbsp;主界面，登陆后点击其中某一个表下<br>
 ![main1](https://github.com/Ge105OT/ajKvpro/blob/master/exeimg/main1.png?raw=true)
 
 # menu
-&nbsp;&nbsp;其中在tablewidget下的右击菜单，另一个在treewidget的右击菜单则不贴图了
+&nbsp;&nbsp;其中在tablewidget下的右击菜单，另一个在treewidget的右击菜单则不贴图了<br>
 ![menu](https://github.com/Ge105OT/ajKvpro/blob/master/exeimg/menu.png?raw=true)
 
 # newrecord
-&nbsp;&nbsp;新增账号密码
+&nbsp;&nbsp;新增账号密码<br>
 ![newrecord](https://github.com/Ge105OT/ajKvpro/blob/master/exeimg/newrecord.png?raw=true)
 
 # lock
-&nbsp;&nbsp;锁屏界面
+&nbsp;&nbsp;锁屏界面<br>
 ![lock](https://github.com/Ge105OT/ajKvpro/blob/master/exeimg/lock.png?raw=true)
 
 # random
-&nbsp;&nbsp;主界面，登陆初始状态下
+&nbsp;&nbsp;主界面，登陆初始状态下<br>
 ![random](https://github.com/Ge105OT/ajKvpro/blob/master/exeimg/random.png?raw=true)
