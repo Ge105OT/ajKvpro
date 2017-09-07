@@ -17,7 +17,7 @@
 
 # login
 &nbsp;&nbsp;登陆界面，右下方新用户点击可以创建一个新的用户<br>
-![login](https://github.com/Ge105OT/blob/master/exeimg/login.png?raw=true)
+![login](https://github.com/Ge105OT/ajKvpro/blob/master/exeimg/login.png?raw=true)
 
 # main
 &nbsp;&nbsp;主界面，登陆初始状态下<br>
