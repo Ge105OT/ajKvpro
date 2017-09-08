@@ -1007,7 +1007,7 @@ class Login_ajK(QtGui.QDialog, LoginUi.Ui_Form_Login):
             button = QtGui.QMessageBox.question(self, "Create", "Would you create a new user!!!",
                                             QtGui.QMessageBox.Ok | QtGui.QMessageBox.Cancel, QtGui.QMessageBox.Ok)
             if button == QtGui.QMessageBox.Ok:
-                newUser = New_User(self)
+                newUser = New_User_ajK(self)
                 newUser.exec_()
             elif button == QtGui.QMessageBox.Cancel:
                 return
@@ -1035,7 +1035,7 @@ class Login_ajK(QtGui.QDialog, LoginUi.Ui_Form_Login):
             mouse_x = e.x() 
             mouse_y = e.y()
             if (mouse_x > self.lable_signup_x and mouse_x < self.label_signup_w) and (mouse_y > self.lable_signup_y and mouse_y < self.label_signup_h):
-                newUser = New_User(self)
+                newUser = New_User_ajK(self)
                 newUser.exec_()
 
     def Check_Allow(self, sql):
